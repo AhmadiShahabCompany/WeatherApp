@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weather">weather</string>
+    <string name="please_enter_your_city">please enter your city</string>
+    <string name="high">HIGH:</string>
+    <string name="low">LOW:</string>
+</resources>
